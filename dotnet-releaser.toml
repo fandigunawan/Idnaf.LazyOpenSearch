@@ -1,0 +1,10 @@
+﻿[msbuild]
+project = "Idnaf.LazyOpenSearch.csproj"
+configuration = "Release"
+
+[github]
+user = "fandigunawan"
+repo = "Idnaf.LazyOpenSearch"
+
+[nuget]
+publish = false
