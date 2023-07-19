@@ -5,6 +5,10 @@ configuration = "Release"
 [github]
 user = "fandigunawan"
 repo = "Idnaf.LazyOpenSearch"
+version_prefix = "v"
 
 [nuget]
+publish = false
+
+[brew]
 publish = false
