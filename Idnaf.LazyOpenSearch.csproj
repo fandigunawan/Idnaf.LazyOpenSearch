@@ -28,4 +28,8 @@
     <None Include=".github\workflows\releaser.yml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+
 </Project>
