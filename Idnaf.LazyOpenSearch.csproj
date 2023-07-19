@@ -13,6 +13,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationManifest></ApplicationManifest>
+    <Version>0.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

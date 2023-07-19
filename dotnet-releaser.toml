@@ -12,3 +12,6 @@ publish = false
 
 [brew]
 publish = false
+
+[scoop]
+publish = false
